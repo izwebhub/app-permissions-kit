@@ -1,0 +1,4 @@
+models/Permission.class
+annotations/PermissionFactory.class
+annotations/PermissionMetaData.class
+scanners/PermissionFactoryScanner.class
